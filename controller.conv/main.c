@@ -6,5 +6,6 @@
 
 main()
 {
+	//	from atom99
 	while (1);
 }
